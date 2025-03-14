@@ -30,7 +30,7 @@ img {
 h2 {
     color: hsl(0, 0%, 100%);
     font-size: 22px;
-    margin-bottom: 5px;
+    margin-bottom: 2px;
 }
 
 .h2 {
@@ -38,7 +38,7 @@ h2 {
     font-size: 19px;
     font-weight: bold;
     padding-bottom: 5px;
-    margin-bottom: 5px;
+    margin-bottom: 3px;
     
 }
 
